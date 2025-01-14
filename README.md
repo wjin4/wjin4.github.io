@@ -1,5 +1,13 @@
 # A website template for academics
 
+
+## General instruction by Weidong
+* Make changes in the source branch 
+* Run bundle exec jekyll serve, localhost:4000 to see the website at local first 
+* commit and push to the source 
+* In the source branch, run rake publish, the HTML pages will be updated in the main branch. Note that I changed the branch name in Rakefile from master to main 
+
+
 ## Users
 
 Some users:
